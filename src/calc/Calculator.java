@@ -13,6 +13,7 @@ public class Calculator {
         double result = first + second;
         System.out.println(format("%f - %f = %f", first, second, result));
         return result;
+
     }
 
     public static void main(String[] args) {
